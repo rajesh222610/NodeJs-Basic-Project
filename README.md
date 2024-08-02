@@ -1,1 +1,1 @@
-It's a Node Js Basic project for the learning purpose.
+It's a basic setup of NodeJS for learning purposes.
